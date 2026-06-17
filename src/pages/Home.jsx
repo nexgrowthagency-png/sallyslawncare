@@ -145,7 +145,7 @@ export default function Home() {
               marginBottom: '1.5rem',
             }}
           >
-            <span style={{ color: '#ffffff' }}>Your Lawn,</span>
+            <span style={{ color: '#ffffff' }}>Your Lawn</span>
             <br />
             <span style={{ color: '#6BAF34' }}>Done Right.</span>
           </motion.h1>
